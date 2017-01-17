@@ -1,5 +1,5 @@
 # AndroManager
-#####Don't get stuck with the boring file manager!
+###Don't get stuck with the boring file manager!
 
 This is a file explorer meant to be light weight and not hog a lot of your devices memory. This app came from the open source project of <a href="http://adf.ly/1iCx21">Amaze File Manager</a>.
 
